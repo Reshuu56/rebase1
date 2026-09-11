@@ -1,0 +1,1 @@
+this is my first lab in GIT lab so i learnd many thing like what is git and git hub then ill execute many command like git init git confing mkdir many things
