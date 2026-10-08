@@ -1,2 +1,3 @@
 this is new file in sub branch
 this is master file 
+this is next update in the master branch file called demo.txt
